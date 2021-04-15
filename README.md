@@ -5,9 +5,9 @@ Be sure take a look at the sequence of actions that you should take to complete 
 
 The goal is for you to 
 <ol>
-  <li>successfully create a new object(s) that implements your determined action.</li>
-  <li>Modify the main program to successfully instantiate your object(s)</li>
-  <li>and submit your new program and the modified Itse2417Main.java back to the GitHub repository.</li>
+  <li>Successfully create a new object(s) that implements your determined action.</li>
+  <li>Modify the main program to successfully instantiate your object(s), and</li>
+  <li>Submit your new program and the modified Itse2417Main.java back to the GitHub repository.</li>
 </ol>
 If your changes are accepted, they will be added to the final source code on Github and appear on further fork that occurs from the main branch.
 
