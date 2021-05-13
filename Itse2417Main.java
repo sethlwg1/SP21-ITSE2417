@@ -67,7 +67,8 @@ public class Itse2417Main
             new FinalProj(),          // Sabine
             new FinalProj(),          // Valdez
             new FinalProj(),          // Wilkerson
-            new SmileyMenu()          // Smiley
+            new SmileyMenu(),         // Smiley
+            new SethMenu()            // Seth
                                                     ));
     // ***************************************************************
     // END OF MENU OBJECTS LIST
@@ -144,6 +145,7 @@ public class Itse2417Main
         System.out.println("20. Valdez");
         System.out.println("21. Wilkerson");
         System.out.println("22. Smiley");
+        System.out.println("23. ArtWork");
         System.out.println("0.  Exit");
         System.out.println();
         System.out.print("Your selection? ");
